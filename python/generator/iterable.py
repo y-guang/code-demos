@@ -6,8 +6,8 @@ Iterator 实现了
 - __iter__
 - __next__
 
-Key idea:
-- 尽管以下代码使用了继承, 但继承b. 这体现了 Duck type.
+Reflection:
+- 尽管以下代码使用了继承, 但继承不是必须的. 这体现了 Duck type.
 """
 
 from collections.abc import Iterable, Iterator
