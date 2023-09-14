@@ -8,7 +8,7 @@ ref: [Rust语言圣经(Rust Course)](https://course.rs/basic/ownership/ownership
 | ------- | --------- | -------------------------------------- | ----------------------- |
 | 2.2     | types     | [types.rs](./src/bin/types.rs)         | [types](#types)         |
 | 2.4.1   | string    | [string.rs](./src/bin/string.rs)       | [string](#string)       |
-| 2.4.2   | ownership | [ownership.rs](./src/bin/ownership.rs) | [ownership](#ownership) |
+| 2.3     | ownership | [ownership.rs](./src/bin/ownership.rs) | [ownership](#ownership) |
 
 ## types
 
