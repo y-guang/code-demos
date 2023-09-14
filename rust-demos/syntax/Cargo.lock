@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "sytax"
+name = "syntax"
 version = "0.1.0"
