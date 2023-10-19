@@ -1,0 +1,6 @@
+*
+!src
+!src/*.cpp
+!*.md
+!.gitignore
+!Makefile
