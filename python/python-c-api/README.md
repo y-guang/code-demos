@@ -12,3 +12,7 @@
 - [setup.py](./minimal/setup.py): py script to build the module.
 - [build_so.sh](./minimal/build_so.sh): build the module.
 - [main.py](./minimal/main.py): Call the func.
+
+### potential usage
+
+Cooperate with `MKL` and `OpenMP` to speed up more complex function that `numpy` cannot do.
