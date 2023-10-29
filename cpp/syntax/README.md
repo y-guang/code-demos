@@ -11,6 +11,7 @@ ref: [《C++快速入门》](https://www.bilibili.com/video/BV1Ps411w73m/)
 | overload | [overload.cpp](./src/overload.cpp) |                     |
 | union    | [union.cpp](./src/union.cpp)       | [union](#union)     |
 | enum     | [enum.cpp](./src/enum.cpp)         | [enum](#enum)       |
+| class    | [class.cpp](./src/class.cpp)       |                     |
 
 
 
