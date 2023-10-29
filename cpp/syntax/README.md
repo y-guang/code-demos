@@ -2,6 +2,16 @@
 
 ref: [《C++快速入门》](https://www.bilibili.com/video/BV1Ps411w73m/)
 
-| concept | file                   | section |
-| ------- | ---------------------- | ------- |
-| io      | [io.cpp](./src/io.cpp) |         |
+## content
+
+| concept | file                     | section |
+| ------- | ------------------------ | ------- |
+| io      | [io.cpp](./src/io.cpp)   |         |
+| fio     | [fio.cpp](./src/fio.cpp) |         |
+
+## file io
+
+`fstream` lib.
+
+- `ifstream` for in stream.
+- `ofstream` for out.
