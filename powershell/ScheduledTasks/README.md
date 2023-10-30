@@ -12,8 +12,7 @@
 
 [run_after_10_sec.ps1](run_after_10_sec.ps1)
 
-Note: we need to run following to clean up the task.
-
 ```powershell
+# use this if the task did not clean it self
 Unregister-ScheduledTask -TaskName "RunWorkScript" -Confirm:$false
 ```
