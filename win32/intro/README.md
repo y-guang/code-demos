@@ -12,6 +12,7 @@
 | Strings             | [string.cpp](.\work_with_string\string.cpp) | [Working with Strings](#strings)            |
 | wWinMain            |                                             | [wWinMain](#wwinmain)                       |
 | windows desktop app | [main.cpp](.\windows_desktop\main.cpp)      | [windows desktop app](#windows-desktop-app) |
+| COM                 | [main.cpp](.\com\main.cpp)                  | [COM](#com)                                 |
 
 ## Coding Conventions
 
@@ -51,3 +52,7 @@ The simplest windows desktop app need at least two functions:
 - `wWinMain`: the entry point.
 - `WindowProc`: the window procedure. For callback of window message.
   - `WM_DESTROY`, `WM_PAINT` are two basic messages that need to be handled.
+
+## COM
+
+[Example: The Open Dialog Box](https://learn.microsoft.com/en-us/windows/win32/learnwin32/example--the-open-dialog-box)
