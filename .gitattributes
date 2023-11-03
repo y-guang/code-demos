@@ -1,0 +1,3 @@
+*.vcxproj linguist-vendored
+*.sln linguist-vendored
+*.cpp linguist-language=C++
