@@ -13,6 +13,7 @@ ref: [《C++快速入门》](https://www.bilibili.com/video/BV1Ps411w73m/)
 | enum        | [enum.cpp](./src/enum.cpp)               | [enum](#enum)               |
 | class       | [class.cpp](./src/class.cpp)             |                             |
 | inheritance | [inheritance.cpp](./src/inheritance.cpp) | [inheritance](#inheritance) |
+| static      | [static.cpp](./src/static.cpp)           | [static](#static)           |
 
 ## file io
 
@@ -31,4 +32,12 @@ mapping element to index [0, n-1].
 
 ## inheritance
 
-Different from Java, child cannot touch private member of parent.
+Different from Java, child cannot touch private member of parent. Use `protected` instead.
+
+## static
+
+Different from Java, static is just the extend C's static to class.
+
+However, compared with C, the access control rely more on namespace than static.
+
+Note the static member variable need to be initialized outside the class.
